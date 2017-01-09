@@ -10,3 +10,11 @@ import Foundation
 
 print("Hello, World!")
 
+let a = 2.0
+print(a)
+var b = 2
+// --------------
+//MARK: simpl form
+// FIXME: aaa
+// TODO: :)
+print(b)
